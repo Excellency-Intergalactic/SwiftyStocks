@@ -1,6 +1,5 @@
 # SwiftyStocks
 
-A description of this package.
 
 *** IMPORTANT LEGAL DISCLAIMER ***
 
